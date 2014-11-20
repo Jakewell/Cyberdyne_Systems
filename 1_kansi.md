@@ -1,10 +1,11 @@
+Skynet: Käyttäjien seuranta -applikaatio
+===
 
-## Projektin kansilehti 
+Cyberdyne Systems
+---
 
-Listaa tänne
+Jarkko Saikkonen  
+Ilpo Oksanen  
+Ville Valkonen
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+13.11.2014
