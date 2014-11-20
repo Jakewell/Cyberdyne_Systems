@@ -1,3 +1,5 @@
+[http://www2.kirjastot.fi/File/8e7c8a89-215c-4676-9ba7-bdf8bb713734/kirjastotfi_kirjastotietokanta_maarittely.pdf]
+
 Ville Valkonen, Jarkko Saikkonen, Ilpo Oksanen
 
 Harjoitus 4 
