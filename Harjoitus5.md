@@ -43,6 +43,6 @@ Opiskelijan näkymässä on oppilaitoksen kartta, josta voi tarkistaa esimerkiks
 	- Kirjastonäkymä: Lista lainatuista kirjoista + palautuspäivä yms. Lisäksi: Kirjaa lainattaessa näytölle 	ilmestyy viesti ja hyväksymisnappi.
 	
 ### 3. Visualisointi ###
-(https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Kartta.jpg)
-(https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Kirjasto.jpg)
-(https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Mobile.jpg)
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Kartta.jpg)
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Kirjasto.jpg)
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Mobile.jpg)
