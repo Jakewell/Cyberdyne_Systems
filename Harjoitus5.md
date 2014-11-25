@@ -35,7 +35,7 @@
 - Visualisoinnit:
 	- Uusi näkymä työntää vanhan näkymän esim. yläreunan kautta pois
 
- 5. 
+5. 
 - Opettaja:
 	- Perusnäkymä: Applikaation logo + kuvakkeet toisiin näkymiin
 	- Opiskelija saapuu luokkaan: Kuva, nimi, ryhmä, tunnus, muuta tietoa + viesti alalaidassa
