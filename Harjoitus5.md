@@ -35,7 +35,7 @@
 - Visualisoinnit:
 	- Uusi näkymä työntää vanhan näkymän esim. yläreunan kautta pois
 
-5. 
+ 5. 
 - Opettaja:
 	- Perusnäkymä: Applikaation logo + kuvakkeet toisiin näkymiin
 	- Opiskelija saapuu luokkaan: Kuva, nimi, ryhmä, tunnus, muuta tietoa + viesti alalaidassa
@@ -44,6 +44,6 @@
 	
 - Oppilas:
 	- Karttanäkymä: Oppilaitoksen kartta
-	- Kirjastonäkymä: Lista lainatuista kirjoista + palautuspäivä yms. Lisäksi: Kirjaa lainattaessa näytölle ilmestyy viesti ja hyväksymisnappi.
+	- Kirjastonäkymä: Lista lainatuista kirjoista + palautuspäivä yms. Lisäksi: Kirjaa lainattaessa näytölle 	ilmestyy viesti ja hyväksymisnappi.
 	
 ### 3. Visualisointi ###
