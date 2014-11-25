@@ -1,12 +1,12 @@
 ### 1. Selitä seuraavat käsitteet ###
 
-1. Näkymä on se osa käyttöliittymää, jonka käyttäjä näkee. Näkymä saattaa sisältää esim. valikkoja, tekstiä, kuvia jne.
+**1.** Näkymä on se osa käyttöliittymää, jonka käyttäjä näkee. Näkymä saattaa sisältää esim. valikkoja, tekstiä, kuvia jne.
 
-2. Wireframe on käyttöliittymästä luotu rautalankamalli, jossa näkyy esim. osien ääriviivat. Se on eräänlainen luonnos.
+**2.** Wireframe on käyttöliittymästä luotu rautalankamalli, jossa näkyy esim. osien ääriviivat. Se on eräänlainen luonnos.
 
-3. Mockup on skaalattu tai täysikokoinen luonnos, jota voidaan käyttää esim. esittelemään tuotetta tai ohjelmistoa.
+**3.** Mockup on skaalattu tai täysikokoinen luonnos, jota voidaan käyttää esim. esittelemään tuotetta tai ohjelmistoa.
 
-4. Prototyyppi on mockup, jolla on kuitenkin toiminnallisuutta ja sitä voidaan testata.
+\4. Prototyyppi on mockup, jolla on kuitenkin toiminnallisuutta ja sitä voidaan testata.
 
 
 ### 2. Käyttöliittymän näkymät ###
