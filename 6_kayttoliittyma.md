@@ -6,6 +6,8 @@ Sovelluksen käyttöliittymät jakautuvat kolmeen osaan. Yksi osa käyttöliitty
 
 ![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Login.jpg)
 
+Kirjautumisruutuun syötetään käyttäjätunnus ja salasana. Palveluun tarvitsee kirjautua vain kerran, jonka jälkeen käyttäjä on aina sisäänkirjautuneena.
+
 ----------
 
 #### Opettajan käyttöliittymä
