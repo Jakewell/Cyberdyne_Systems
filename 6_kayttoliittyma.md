@@ -16,7 +16,7 @@ Opettajan perusnäkymä on yksinkertainen. Siitä pääsee tehtävien palautukse
 
 **2. Automaattinen ilmoitus läsnäolosta**
 
-![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_perus.jpg)
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_saapuminen.jpg)
 
 Automaattisessa ilmoituksessa on profiili kyseisestä opiskelijasta. Ilmoitus häviää ruudulta automaattisesti hetken kuluttua. Vaihtoehtoisesti näkymän voi myös pyyhkaistä sormella kuvaruudun reunan yli, jolloin palataan perusnäkymään.
 
