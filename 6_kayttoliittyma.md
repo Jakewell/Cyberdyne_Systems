@@ -2,6 +2,12 @@
 
 Sovelluksen käyttöliittymät jakautuvat kolmeen osaan. Yksi osa käyttöliittymästä sisältää opettajan näkymät, toinen oppilaan näkymät ja kolmas vahtimestarin(master) näkymät. Kullakin käyttäjäryhmällä on sovelluksessa erilaiset käyttötarkoitukset.
 
+#### Login
+
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Login.jpg)
+
+----------
+
 #### Opettajan käyttöliittymä
 
 ----------
