@@ -5,8 +5,7 @@
  - __Vahtimestari__
 
 #### __Käyttötapauskaavio__
-    * < insert here > http://i57.tinypic.com/20uslfo.png
-    Inline-style: 
+
 ![alt text](http://i60.tinypic.com/xfut13.jpg "Kayttotapaus")
 
 
