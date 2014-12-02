@@ -13,6 +13,9 @@
 - Läsnäololistan tulee päivittyä reaaliaikaisesta sitä mukaa, kun opiskelijoita saapuu opetustilaan.
 - Tehtävien palautus -näkymässä täytyy pystyä merkitsemään tehtävät tehdyksi nimen vieressä olevaan laatikkoon sormen painalluksella.
 - Ilmoitus läsnäolosta opiskelijan saapuessa luokkaan täytyy voida pyyhkäistä sormella reunan yli, jolloin palataan perusnäkymään.
+- Kartan tulee päivittyä reaaliajassa, ja oma sijainti tulee näkyä ruudulla punaisella pallolla.
+- Karttaa täytyy pystyä lähentämään ja loitontamaan (zoomaus).
+- Kartalla täytyy näkyä reitti seuraavaan opetustilaan. Tämä merkataan värillisellgit puä viivalla lyhintä pohjapiirustuksen reittiä pitkin.
 
 **Opiskelijan näkymät**
 
@@ -22,7 +25,9 @@
 
 **Vahtimestarin(master) näkymät**
 
-- aaa
+- Kartan tulee päivittyä reaaliajassa, ja oma sijainti tulee näkyä ruudulla punaisella pallolla.
+- Muiden sijainti tulee näkyä kartassa eri värillä, kuin oma sijainti.
+ Karttaa täytyy pystyä lähentämään ja loitontamaan (zoomaus).
 
 #### Ei-funktionaaliset vaatimukset
 
@@ -32,6 +37,7 @@
 
 - Siirtymät näkymien välillä tulee tapahtua animaationa, jossa edellinen näkymä työntyy uuden tieltä näytön yläreunan kautta.
 - Sovelluksen tulee skaalautua kaikille mobiilialustoille.
+- Sovelluksen tulee toimia moitteettomasti myös suurella määrällä käyttäjiä.
 - Tietoturva tulee hoitaa niin, että ainoastaan Cyberdyne Systems sekä oppilaitos saavat tiedot haltuunsa.
 
 **Opettajan näkymät**
@@ -44,4 +50,4 @@
 
 **Vahtimestarin(master) näkymät**
 
-- aaa
+- Karttapalvelun tulee herättää suurempaa huomiota, jos oppilaitoksessa on vielä väkeä lähellä sulkemisaikaa.
