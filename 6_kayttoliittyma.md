@@ -10,7 +10,7 @@ Sovelluksen käyttöliittymä jakautuu kahteen osaan. Toinen puoli käyttöliitt
 
 // OPETTAJAN PERUSNÄKYMÄ
 
-Opettajan perusnäkymä on yksinkertainen. Siitä pääsee tehtävien palautukseen ja läsnäololistaan. Sen lisäksi näkymässä ovat oppilaitoksen ja sovelluksen kehittäjän logot. Opiskelijan saapuessa luokkaan ruudulle avautuu automaattinen ilmoitus kyseisen opiskelijan tiedoista. Tässä kohtaa hän myös rekisteröityy automaattisesti kurssin läsnäololistalle.
+Opettajan perusnäkymä on yksinkertainen. Siitä pääsee tehtävien palautukseen, läsnäololistaan ja karttapalveluun. Sen lisäksi näkymässä ovat oppilaitoksen ja sovelluksen kehittäjän logot. Opiskelijan saapuessa luokkaan ruudulle avautuu automaattinen ilmoitus kyseisen opiskelijan tiedoista. Tässä kohtaa hän myös rekisteröityy automaattisesti kurssin läsnäololistalle.
 
 ----------
 
@@ -35,6 +35,14 @@ Tässä näkymässä on listattuna kurssille ilmoittautuneiden nimet, sekä merk
 // LÄSNÄOLOLISTA
 
 Läsnäololista on lähes identtinen tehtävien palautukset -näkymän kanssa. Läsnäololistaan tulee merkintä opiskelijan kohdalle automaattisesti, kun tämä saapuu opetustilaan. Takaisin perusnäkymään pääsee takaisin-painikkeella.
+
+----------
+
+**5. Karttanäkymä**
+
+// OPETTAJAN KARTTANÄKYMÄ
+
+Karttanäkymässä opettaja näkee nykyisen ja tulevan työtilan, jossa hänen kuuluu opettaa. Työtila on korostettu oppilaitoksen pohjapiirrokseen eri värillä.
 
 ----------
 
@@ -63,3 +71,15 @@ Kirjaa lainattaessa mobiililaite voidaan sijoittaa kirjan viereen, jolloin radio
 // LAINATUT KIRJAT
 
 Tässä näkymässä on listattuna itsellä lainassa olevat teokset, sekä niiden eräpäivät. Takaisin-painikkeesta pääsee perusnäkymään.
+
+----------
+
+#### Vahtimestarin(master) käyttöliittymä
+
+----------
+
+**1. Perusnäkymä (karttanäkymä)**
+
+// KARTTANÄKYMÄ
+
+Vahtimestari voi nähdä karttapalvelussaan kaikkien sovellusta käyttävien sijainnin. Näin ollen hän voi seurata esimerkiksi mahdollisia epäilyttäviä tilanteita kampusalueella, sekä tarkistaa nopeasti onko oppilaitoksessa ihmisiä vielä sulkemisaikaan.

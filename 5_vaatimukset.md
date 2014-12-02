@@ -20,6 +20,10 @@
 - Karttaa täytyy pystyä lähentämään ja loitontamaan (zoomaus).
 - Kartalla täytyy näkyä reitti seuraavaan opetustilaan. Tämä merkataan värillisellä viivalla lyhintä pohjapiirustuksen reittiä pitkin.
 
+**Vahtimestarin(master) näkymät**
+
+- aaa
+
 #### Ei-funktionaaliset vaatimukset
 
 ----------
@@ -37,3 +41,7 @@
 **Opiskelijan näkymät**
 
 - Kun kijran eräpäivä lähestyy, täytyy opiskelijan perusnäkymässä olevan "lainatut kirjat" -painikkeen väri muuttua oranssiksi. Samalla myös lainatut kirjat -näkymässä kyseisen teoksen kohdalla taustaväri muuttuu oranssiksi.
+
+**Vahtimestarin(master) näkymät**
+
+- aaa
