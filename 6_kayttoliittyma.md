@@ -1,6 +1,6 @@
 ## Käyttöliittymä
 
-Sovelluksen käyttöliittymä jakautuu kahteen osaan. Toinen puoli käyttöliittymästä sisältää opettajan näkymät, ja toinen oppilaan näkymät. Kummallakin käyttäjäryhmällä on sovelluksessa erilaiset käyttötarkoitukset.
+Sovelluksen käyttöliittymät jakautuvat kolmeen osaan. Yksi osa käyttöliittymästä sisältää opettajan näkymät, toinen oppilaan näkymät ja kolmas vahtimestarin(master) näkymät. Kullakin käyttäjäryhmällä on sovelluksessa erilaiset käyttötarkoitukset.
 
 #### Opettajan käyttöliittymä
 
@@ -8,7 +8,7 @@ Sovelluksen käyttöliittymä jakautuu kahteen osaan. Toinen puoli käyttöliitt
 
 **1. Opettajan perusnäkymä**
 
-// OPETTAJAN PERUSNÄKYMÄ
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_perus.jpg)
 
 Opettajan perusnäkymä on yksinkertainen. Siitä pääsee tehtävien palautukseen, läsnäololistaan ja karttapalveluun. Sen lisäksi näkymässä ovat oppilaitoksen ja sovelluksen kehittäjän logot. Opiskelijan saapuessa luokkaan ruudulle avautuu automaattinen ilmoitus kyseisen opiskelijan tiedoista. Tässä kohtaa hän myös rekisteröityy automaattisesti kurssin läsnäololistalle.
 
@@ -16,7 +16,7 @@ Opettajan perusnäkymä on yksinkertainen. Siitä pääsee tehtävien palautukse
 
 **2. Automaattinen ilmoitus läsnäolosta**
 
-// OPPILAS SAAPUU LUOKKAAN
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_perus.jpg)
 
 Automaattisessa ilmoituksessa on profiili kyseisestä opiskelijasta. Ilmoitus häviää ruudulta automaattisesti hetken kuluttua. Vaihtoehtoisesti näkymän voi myös pyyhkaistä sormella kuvaruudun reunan yli, jolloin palataan perusnäkymään.
 
@@ -24,7 +24,7 @@ Automaattisessa ilmoituksessa on profiili kyseisestä opiskelijasta. Ilmoitus h�
 
 **3. Tehtävien palautukset**
 
-// TEHTÄVIEN PALAUTUKSET
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_tehtpalautus.jpg)
 
 Tässä näkymässä on listattuna kurssille ilmoittautuneiden nimet, sekä merkattuna palautetut tehtävät. Takaisin-painikkeella pääsee takaisin opettajan perusnäkymään.
 
@@ -32,7 +32,7 @@ Tässä näkymässä on listattuna kurssille ilmoittautuneiden nimet, sekä merk
 
 **4. Läsnäololista**
 
-// LÄSNÄOLOLISTA
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_lasnaolo.jpg)
 
 Läsnäololista on lähes identtinen tehtävien palautukset -näkymän kanssa. Läsnäololistaan tulee merkintä opiskelijan kohdalle automaattisesti, kun tämä saapuu opetustilaan. Takaisin perusnäkymään pääsee takaisin-painikkeella.
 
@@ -40,7 +40,7 @@ Läsnäololista on lähes identtinen tehtävien palautukset -näkymän kanssa. L
 
 **5. Karttanäkymä**
 
-// OPETTAJAN KARTTANÄKYMÄ
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Opettaja_kartta.jpg)
 
 Karttanäkymässä opettaja näkee nykyisen ja tulevan työtilan, jossa hänen kuuluu opettaa. Työtila on korostettu oppilaitoksen pohjapiirrokseen eri värillä.
 
@@ -52,7 +52,7 @@ Karttanäkymässä opettaja näkee nykyisen ja tulevan työtilan, jossa hänen k
 
 **1. Perusnäkymä (karttanäkymä)**
 
-// KARTTANÄKYMÄ
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Oppilas_kartta.jpg)
 
 Opiskelijalla on sovelluksen osalta myös muutamia palveluita. Perusnäkymässä hän voi nähdä sijaintinsa oppilaitoksen pohjapiirustuksessa. Samalla kartassa näkyy myös seuraavan oppitunnin sijainti, joka haetaan lukujärjestyksen ja tämänhetkisen ajan tiedoista. Perusnäkymästä pääsee myös tarkastelemaan itsellä lainassa olevia kirjoja.
 
@@ -60,7 +60,7 @@ Opiskelijalla on sovelluksen osalta myös muutamia palveluita. Perusnäkymässä
 
 **2. Kirjan lainaus**
 
-// KIRJAN LAINAUS
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Oppilas_lainaus.jpg)
 
 Kirjaa lainattaessa mobiililaite voidaan sijoittaa kirjan viereen, jolloin radiotaajuuksilla haettavat teoksen tiedot avautuvat näytölle. Tämän jälkeen käyttäjä voi lainata kyseisen teoksen yhdellä napin painalluksella. Tämän jälkeen näkymä palautuu perusnäkymään.
 
@@ -68,7 +68,7 @@ Kirjaa lainattaessa mobiililaite voidaan sijoittaa kirjan viereen, jolloin radio
 
 **3. Lainatut kirjat**
 
-// LAINATUT KIRJAT
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Oppilas_lainatut.jpg)
 
 Tässä näkymässä on listattuna itsellä lainassa olevat teokset, sekä niiden eräpäivät. Takaisin-painikkeesta pääsee perusnäkymään.
 
@@ -80,6 +80,6 @@ Tässä näkymässä on listattuna itsellä lainassa olevat teokset, sekä niide
 
 **1. Perusnäkymä (karttanäkymä)**
 
-// KARTTANÄKYMÄ
+![Image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Vahtimestari_perus.jpg)
 
 Vahtimestari voi nähdä karttapalvelussaan kaikkien sovellusta käyttävien sijainnin. Näin ollen hän voi seurata esimerkiksi mahdollisia epäilyttäviä tilanteita kampusalueella, sekä tarkistaa nopeasti onko oppilaitoksessa ihmisiä vielä sulkemisaikaan.
