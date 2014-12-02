@@ -7,3 +7,5 @@ Tietokanta on myös tärkeä osa järjestelmää. Käyttäjätunnukset, salasana
 Kontrolli/logiikkakerroksessa on sovelluksen toiminnallinen osa. Siinä suoritetaan käyttäjän tekemät tapahtumat, hallinnoidaan logiikkaa ja suoritetaan sovelluksen koodia.
 
 Käyttöliittymä on päällimmäisin kerros, joka näkyy käyttäjälle. Sen toiminnot ovat suoraan kytköksissä kontrolli/logiikkakerrokseen.
+
+![image](https://github.com/Jakewell/Cyberdyne_Systems/blob/master/Jarjestelma.jpg)
